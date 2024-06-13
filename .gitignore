@@ -1,0 +1,6 @@
+data/models
+data/dataset
+data/raw
+resources
+node_modules
+__pycache__
